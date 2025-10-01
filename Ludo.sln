@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LudoMenschAergereDichNicht", "LudoMenschAergereDichNicht\LudoMenschAergereDichNicht.csproj", "{7111356F-8AD4-4A0A-92A6-03B65BA59A5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProjectLudo", "TestProjectLudo\TestProjectLudo.csproj", "{416E94E8-E6E6-4731-89AF-8BCBC6194986}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{7111356F-8AD4-4A0A-92A6-03B65BA59A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7111356F-8AD4-4A0A-92A6-03B65BA59A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7111356F-8AD4-4A0A-92A6-03B65BA59A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{416E94E8-E6E6-4731-89AF-8BCBC6194986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{416E94E8-E6E6-4731-89AF-8BCBC6194986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{416E94E8-E6E6-4731-89AF-8BCBC6194986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{416E94E8-E6E6-4731-89AF-8BCBC6194986}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

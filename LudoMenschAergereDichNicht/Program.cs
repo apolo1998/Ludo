@@ -1,3 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
+using LudoMenschAergereDichNicht;
 
-Console.WriteLine("Hello, World!");
+GameBoard board = new GameBoard();
+board.ToString();
